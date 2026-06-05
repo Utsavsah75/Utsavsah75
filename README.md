@@ -1,7 +1,10 @@
 <!-- apply a github profile readme generator -->
 <img align="center" src="./github_banner.png" width="100%" height="30%" />
-<h3 align="center">Frontend Developer passionate about clean UI and seamless UX
-</h3>
+
+<h2 align="center" style="margin:0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer+Clean+UI+Enthusiast+passionate+about+clean+UI+and+seamless+UX" alt="Typing Animation" 
+</h2>
+
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 400px;" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavsah75&label=Profile%20views&color=0e75b6&style=flat" alt="utsavsah75" /> </p>
