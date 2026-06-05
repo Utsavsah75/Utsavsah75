@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utsav Prasad sah</h1>
+<!-- apply a github profile readme generator -->
+<img align="center" src="./gitbugbanner.png" width="100%" height="80%" />
 <h3 align="center">Frontend Developer passionate about clean UI and seamless UX
 </h3>
 
